@@ -35,7 +35,7 @@ class DTLearner(object):
       #  warnings.warn("\n\n  WARNING! THIS IS NOT A CORRECT DTLearner IMPLEMENTATION! REPLACE WITH YOUR OWN CODE\n")  		   	  			  	 		  		  		    	 		 		   		 		  
      #   pass # move along, these aren't the drones you're looking for  		   	  			  	 		  		  		    	 		 		   		 		  
     
-class DTLearner(object):
+
 
     def __init__(self, leaf_size=1, verbose = False):
         if leaf_size < 1:
